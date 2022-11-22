@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+命运，是一个很飘渺的东西，有人相信命运，走到了塔顶，或者坠落到崖底。有人想逆天改命，但成功的几率，与中彩一样，但有了毅力，终有那么一天，前方，不再是灰色的雾。
 <!---
 Qiu-Qing-Yuan/Qiu-Qing-Yuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
